@@ -4,8 +4,8 @@
 
 - [Executive Summary](./executive.md)
 - [Market Research](./research.md)
-- Marketing Objectives
-- Marketing Strategy
+- Marketing Objectives (KPIs)
+- [Marketing Strategy](./strategy.md)
 
 <!-- 
 - [Budgeting](./budgeting.md)
