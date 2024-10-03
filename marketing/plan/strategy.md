@@ -8,15 +8,21 @@
 
 ## 1. Product Strategy
 
-### 1.1 Target Audience
+- No differentiation between client types, whether businesses (B2B) or individual consumers (B2C).
 
-#### B2B vs. B2C product differentiation
-- We do not differentiate between client types, whether they are businesses or individual consumers.
-- A Tiered Pricing model will be implemented for all products, ensuring flexibility based on order size.
-- Minimum Order Quantities (MOQs) will be defined for each tier, accounting for additional factors such as customization options.
+- Standard packaging and printing options will be defined for the most popular products, allowing clients to select from predefined configurations.
+
+- Standard packaging and printing specifications: `<empty>`
 
 ## 2. Pricing Strategy
-> TODO
+
+- A Tiered Pricing model will be applied across all products, providing flexibility based on:
+    - Minimum Order Quantities (MOQs)
+    - Custom printing options
+    - Packaging sizes
+    - Delivery timespans
+    
+- Tiered Pricing details: `<empty>`
 
 ## 3. Promotion Strategy
 > TODO
