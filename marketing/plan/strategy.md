@@ -3,7 +3,7 @@
 ## ToC
 1. [Product Strategy](#1-product-strategy)
 2. [Pricing Strategy](#2-pricing-strategy)
-3. Promotion Strategy (Digital, Social Media, Paid Ads)
+3. Promotion Strategy
 
 
 ## 1. Product Strategy
